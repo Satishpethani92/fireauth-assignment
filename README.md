@@ -8,11 +8,11 @@
 
 ## Database Entries
 
-<img src="./workingvideo/db_entries.png" width="600" alt="Database Entries" />
+<img src="./workingvideo/db_entries.png" width="900" alt="Database Entries" />
 
 ## Phone Auth Data
 
-<img src="./workingvideo/phone_auth_data.png" width="600" alt="Phone Auth Data" />
+<img src="./workingvideo/phone_auth_data.png" width="900" alt="Phone Auth Data" />
 
 ## Working Video
 
