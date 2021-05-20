@@ -16,7 +16,7 @@
 
 ## Working Video
 
-[Video](./workingvideo/auth_video.mov)
+This is the [Video](./workingvideo/auth_video.mov) you can download and view how the flow of assignment is.
 
 ## How to Test
 
