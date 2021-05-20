@@ -18,6 +18,10 @@
 
 This is the [Video](./workingvideo/auth_video.mov) you can download and view how the flow of assignment is.
 
+## APK
+
+* Click here to download [android application](./workingvideo/fire_auth.apk)
+
 ## How to Test
 
 * Enter number which is not in database entries and check.
